@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on rob&#39;s website</title>
+    <link>http://rjayasinghe.github.io/post/</link>
+    <description>Recent content in Posts on rob&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 22 Mar 2016 19:48:09 +0100</lastBuildDate>
+    <atom:link href="http://rjayasinghe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello static world</title>
+      <link>http://rjayasinghe.github.io/post/hello-static-world/</link>
+      <pubDate>Tue, 22 Mar 2016 19:48:09 +0100</pubDate>
+      
+      <guid>http://rjayasinghe.github.io/post/hello-static-world/</guid>
+      <description>&lt;p&gt;Hello World! I am a static website with blog posts and shit. Yes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
