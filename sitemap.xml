@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://rjayasinghe.github.io/</loc>
-    <lastmod>2016-03-27T21:53:15+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://rjayasinghe.github.io/pages/contact/</loc>
     <lastmod>2016-03-27T21:53:15+02:00</lastmod>
   </url>
@@ -30,6 +24,24 @@
   <url>
     <loc>http://rjayasinghe.github.io/post/hello-static-world/</loc>
     <lastmod>2016-03-22T19:48:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rjayasinghe.github.io/pages/</loc>
+    <lastmod>2016-03-27T21:53:15+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rjayasinghe.github.io/post/</loc>
+    <lastmod>2016-03-22T19:48:09+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rjayasinghe.github.io/</loc>
+    <lastmod>2016-03-27T21:53:15+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

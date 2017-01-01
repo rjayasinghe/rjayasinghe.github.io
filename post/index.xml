@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on rob&#39;s website</title>
-    <link>http://rjayasinghe.github.io/post/</link>
+    <link>http://rjayasinghe.github.io/post/index.xml</link>
     <description>Recent content in Posts on rob&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
